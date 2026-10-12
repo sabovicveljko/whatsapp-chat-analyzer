@@ -9,8 +9,8 @@ Analyses a WhatsApp group chat export: message counts per person, activity by ho
 
 ## How to run
 1. `pip install pandas matplotlib pandas emoji  plotly.express re ` 
-2. Run `chat_generator.ipynb` (optional, the sample is already included)
-3. Run `analyzer.ipynb`
+2. Run `TextFileGenerator.ipynb` (optional, the sample is already included)
+3. Run `Analyzer.ipynb`
 
 ## Note
 All data is synthetic. No real conversations are included.# whatsapp-chat-analyzer
