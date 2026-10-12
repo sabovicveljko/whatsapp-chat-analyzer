@@ -1,0 +1,368 @@
+02/01/24, 09:00 - Alice: Look at this 😂
+02/01/24, 09:05 - Alice: <Media omitted>
+02/01/24, 09:05 - Charlie: HAHA I'm dead
+03/01/24, 09:07 - Charlie: I can't believe how much work we got for lunch
+03/01/24, 09:11 - Alice: Same 😭 I haven't even started
+03/01/24, 09:17 - Charlie: Let's meet at the library around 8 and get it done
+04/01/24, 09:18 - Bob: I can't believe how much work we got for the football match
+04/01/24, 09:20 - Charlie: Same 😭 I haven't even started
+04/01/24, 09:24 - Bob: Let's meet at the gym tomorrow morning and get it done
+04/01/24, 15:26 - Charlie: Look at this 😂
+04/01/24, 15:32 - Charlie: <Media omitted>
+04/01/24, 15:35 - Bob: HAHA I'm dead
+05/01/24, 09:36 - Alice: Anyone up for study session around 8?
+05/01/24, 09:37 - Charlie: Yes! Meet at the cafe?
+05/01/24, 09:42 - Bob: Can't make it at 6, can we do later?
+05/01/24, 09:45 - Alice: Sure, let's say at 1 then
+05/01/24, 09:49 - Charlie: Perfect 👍
+05/01/24, 21:55 - Alice: Anyone up for coffee tomorrow morning?
+05/01/24, 21:55 - Charlie: Yes! Meet at campus?
+05/01/24, 21:58 - Bob: Can't make it tomorrow morning, can we do later?
+05/01/24, 22:04 - Alice: Sure, let's say after class then
+05/01/24, 22:06 - Charlie: Perfect 👍
+06/01/24, 09:06 - Alice: Look at this 😂
+06/01/24, 09:08 - Alice: <Media omitted>
+06/01/24, 09:13 - Bob: HAHA I'm dead
+06/01/24, 17:19 - Alice: Anyone up for study session around 8?
+06/01/24, 17:22 - Charlie: Yes! Meet at Marco's?
+06/01/24, 17:24 - Bob: Can't make it tomorrow morning, can we do later?
+06/01/24, 17:29 - Alice: Sure, let's say around 8 then
+06/01/24, 17:35 - Charlie: Perfect 👍
+07/01/24, 09:38 - Alice: I can't believe how much work we got for coffee
+07/01/24, 09:41 - Bob: Same 😭 I haven't even started
+07/01/24, 09:41 - Alice: Let's meet at campus around 8 and get it done
+07/01/24, 20:45 - Alice: Anyone up for coffee tomorrow morning?
+07/01/24, 20:48 - Charlie: Yes! Meet at the gym?
+07/01/24, 20:53 - Bob: Can't make it at 6, can we do later?
+07/01/24, 20:57 - Alice: Sure, let's say around 8 then
+07/01/24, 21:03 - Charlie: Perfect 👍
+08/01/24, 09:04 - Alice: Look at this 😂
+08/01/24, 09:08 - Alice: <Media omitted>
+08/01/24, 09:09 - Charlie: HAHA I'm dead
+09/01/24, 09:09 - Alice: Look at this 😂
+09/01/24, 09:14 - Alice: <Media omitted>
+09/01/24, 09:16 - Bob: HAHA I'm dead
+09/01/24, 22:22 - Alice: I can't believe how much work we got for lunch
+09/01/24, 22:25 - Charlie: Same 😭 I haven't even started
+09/01/24, 22:30 - Alice: Let's meet at the library at 1 and get it done
+10/01/24, 10:35 - Charlie: Look at this 😂
+10/01/24, 10:38 - Charlie: <Media omitted>
+10/01/24, 10:43 - Bob: HAHA I'm dead
+10/01/24, 18:43 - Alice: Look at this 😂
+10/01/24, 18:50 - Alice: <Media omitted>
+10/01/24, 18:57 - Bob: HAHA I'm dead
+10/01/24, 22:00 - Alice: Anyone up for coffee around 8?
+10/01/24, 22:00 - Charlie: Yes! Meet at Marco's?
+10/01/24, 22:03 - Bob: Can't make it tomorrow morning, can we do later?
+10/01/24, 22:08 - Alice: Sure, let's say after class then
+10/01/24, 22:13 - Charlie: Perfect 👍
+11/01/24, 09:13 - Alice: Look at this 😂
+11/01/24, 09:20 - Alice: <Media omitted>
+11/01/24, 09:23 - Bob: HAHA I'm dead
+11/01/24, 14:28 - Alice: Anyone up for coffee tomorrow morning?
+11/01/24, 14:31 - Charlie: Yes! Meet at the cafe?
+11/01/24, 14:35 - Bob: Can't make it at 6, can we do later?
+11/01/24, 14:38 - Alice: Sure, let's say at 1 then
+11/01/24, 14:41 - Charlie: Perfect 👍
+12/01/24, 09:46 - Charlie: I can't believe how much work we got for study session
+12/01/24, 09:48 - Alice: Same 😭 I haven't even started
+12/01/24, 09:55 - Charlie: Let's meet at Marco's tomorrow morning and get it done
+12/01/24, 15:58 - Alice: I can't believe how much work we got for coffee
+12/01/24, 16:04 - Charlie: Same 😭 I haven't even started
+12/01/24, 16:07 - Alice: Let's meet at the gym after class and get it done
+13/01/24, 09:13 - Charlie: Look at this 😂
+13/01/24, 09:17 - Charlie: <Media omitted>
+13/01/24, 09:18 - Bob: HAHA I'm dead
+14/01/24, 09:23 - Alice: I can't believe how much work we got for the group project
+14/01/24, 09:24 - Bob: Same 😭 I haven't even started
+14/01/24, 09:24 - Alice: Let's meet at the library after class and get it done
+14/01/24, 12:31 - Charlie: Look at this 😂
+14/01/24, 12:33 - Charlie: <Media omitted>
+14/01/24, 12:39 - Alice: HAHA I'm dead
+15/01/24, 09:41 - Bob: Look at this 😂
+15/01/24, 09:41 - Bob: <Media omitted>
+15/01/24, 09:44 - Charlie: HAHA I'm dead
+16/01/24, 09:47 - Alice: Anyone up for lunch at 1?
+16/01/24, 09:53 - Bob: Yes! Meet at the cafe?
+16/01/24, 09:54 - Charlie: Can't make it after class, can we do later?
+16/01/24, 09:58 - Alice: Sure, let's say at 6 then
+16/01/24, 10:01 - Bob: Perfect 👍
+17/01/24, 09:02 - Alice: I can't believe how much work we got for the group project
+17/01/24, 09:03 - Charlie: Same 😭 I haven't even started
+17/01/24, 09:06 - Alice: Let's meet at the gym around 8 and get it done
+17/01/24, 23:08 - Alice: Look at this 😂
+17/01/24, 23:13 - Alice: <Media omitted>
+17/01/24, 23:14 - Charlie: HAHA I'm dead
+18/01/24, 17:19 - Alice: I can't believe how much work we got for the group project
+18/01/24, 17:25 - Charlie: Same 😭 I haven't even started
+18/01/24, 17:27 - Alice: Let's meet at the library after class and get it done
+18/01/24, 20:28 - Charlie: I can't believe how much work we got for the football match
+18/01/24, 20:32 - Alice: Same 😭 I haven't even started
+18/01/24, 20:33 - Charlie: Let's meet at campus at 1 and get it done
+18/01/24, 23:35 - Alice: I can't believe how much work we got for the group project
+18/01/24, 23:39 - Bob: Same 😭 I haven't even started
+18/01/24, 23:45 - Alice: Let's meet at campus at 1 and get it done
+19/01/24, 09:48 - Alice: I can't believe how much work we got for coffee
+19/01/24, 09:55 - Charlie: Same 😭 I haven't even started
+19/01/24, 09:57 - Alice: Let's meet at campus after class and get it done
+19/01/24, 17:03 - Alice: Look at this 😂
+19/01/24, 17:06 - Alice: <Media omitted>
+19/01/24, 17:08 - Charlie: HAHA I'm dead
+20/01/24, 08:14 - Charlie: Anyone up for coffee at 6?
+20/01/24, 08:20 - Bob: Yes! Meet at the gym?
+20/01/24, 08:26 - Alice: Can't make it tomorrow morning, can we do later?
+20/01/24, 08:32 - Charlie: Sure, let's say around 8 then
+20/01/24, 08:38 - Bob: Perfect 👍
+21/01/24, 09:43 - Charlie: Anyone up for the football match at 1?
+21/01/24, 09:44 - Bob: Yes! Meet at the library?
+21/01/24, 09:51 - Alice: Can't make it around 8, can we do later?
+21/01/24, 09:56 - Charlie: Sure, let's say at 1 then
+21/01/24, 09:56 - Bob: Perfect 👍
+22/01/24, 09:58 - Alice: I can't believe how much work we got for coffee
+22/01/24, 09:59 - Bob: Same 😭 I haven't even started
+22/01/24, 10:05 - Alice: Let's meet at the library at 1 and get it done
+22/01/24, 19:05 - Bob: I can't believe how much work we got for the group project
+22/01/24, 19:06 - Charlie: Same 😭 I haven't even started
+22/01/24, 19:13 - Bob: Let's meet at the gym at 6 and get it done
+23/01/24, 09:13 - Alice: I can't believe how much work we got for the football match
+23/01/24, 09:20 - Charlie: Same 😭 I haven't even started
+23/01/24, 09:24 - Alice: Let's meet at campus at 6 and get it done
+23/01/24, 17:29 - Bob: Look at this 😂
+23/01/24, 17:30 - Bob: <Media omitted>
+23/01/24, 17:34 - Alice: HAHA I'm dead
+24/01/24, 09:40 - Bob: Look at this 😂
+24/01/24, 09:45 - Bob: <Media omitted>
+24/01/24, 09:52 - Alice: HAHA I'm dead
+24/01/24, 18:57 - Bob: I can't believe how much work we got for study session
+24/01/24, 19:01 - Charlie: Same 😭 I haven't even started
+24/01/24, 19:06 - Bob: Let's meet at the gym at 1 and get it done
+24/01/24, 23:07 - Alice: Anyone up for the group project around 8?
+24/01/24, 23:13 - Charlie: Yes! Meet at the gym?
+24/01/24, 23:18 - Bob: Can't make it after class, can we do later?
+24/01/24, 23:18 - Alice: Sure, let's say around 8 then
+24/01/24, 23:22 - Charlie: Perfect 👍
+25/01/24, 09:22 - Alice: Anyone up for coffee around 8?
+25/01/24, 09:28 - Bob: Yes! Meet at the library?
+25/01/24, 09:33 - Charlie: Can't make it tomorrow morning, can we do later?
+25/01/24, 09:38 - Alice: Sure, let's say after class then
+25/01/24, 09:44 - Bob: Perfect 👍
+26/01/24, 09:49 - Bob: I can't believe how much work we got for the group project
+26/01/24, 09:52 - Alice: Same 😭 I haven't even started
+26/01/24, 09:53 - Bob: Let's meet at the cafe around 8 and get it done
+27/01/24, 09:54 - Alice: Anyone up for study session after class?
+27/01/24, 09:56 - Charlie: Yes! Meet at the cafe?
+27/01/24, 09:58 - Bob: Can't make it after class, can we do later?
+27/01/24, 10:02 - Alice: Sure, let's say at 1 then
+27/01/24, 10:04 - Charlie: Perfect 👍
+28/01/24, 09:06 - Bob: I can't believe how much work we got for coffee
+28/01/24, 09:08 - Alice: Same 😭 I haven't even started
+28/01/24, 09:11 - Bob: Let's meet at campus tomorrow morning and get it done
+28/01/24, 18:11 - Alice: Anyone up for coffee after class?
+28/01/24, 18:12 - Bob: Yes! Meet at the gym?
+28/01/24, 18:16 - Charlie: Can't make it tomorrow morning, can we do later?
+28/01/24, 18:22 - Alice: Sure, let's say at 6 then
+28/01/24, 18:25 - Bob: Perfect 👍
+28/01/24, 23:26 - Alice: Look at this 😂
+28/01/24, 23:27 - Alice: <Media omitted>
+28/01/24, 23:30 - Bob: HAHA I'm dead
+29/01/24, 09:31 - Alice: Look at this 😂
+29/01/24, 09:36 - Alice: <Media omitted>
+29/01/24, 09:38 - Charlie: HAHA I'm dead
+29/01/24, 12:40 - Charlie: Anyone up for the group project after class?
+29/01/24, 12:40 - Alice: Yes! Meet at Marco's?
+29/01/24, 12:44 - Bob: Can't make it around 8, can we do later?
+29/01/24, 12:45 - Charlie: Sure, let's say at 1 then
+29/01/24, 12:46 - Alice: Perfect 👍
+30/01/24, 09:50 - Bob: Look at this 😂
+30/01/24, 09:52 - Bob: <Media omitted>
+30/01/24, 09:52 - Charlie: HAHA I'm dead
+31/01/24, 09:56 - Alice: Look at this 😂
+31/01/24, 09:57 - Alice: <Media omitted>
+31/01/24, 10:02 - Charlie: HAHA I'm dead
+01/02/24, 09:04 - Alice: Look at this 😂
+01/02/24, 09:06 - Alice: <Media omitted>
+01/02/24, 09:09 - Charlie: HAHA I'm dead
+01/02/24, 21:12 - Alice: I can't believe how much work we got for lunch
+01/02/24, 21:19 - Charlie: Same 😭 I haven't even started
+01/02/24, 21:20 - Alice: Let's meet at the library at 6 and get it done
+02/02/24, 09:23 - Bob: Anyone up for the group project at 6?
+02/02/24, 09:26 - Alice: Yes! Meet at Marco's?
+02/02/24, 09:30 - Charlie: Can't make it around 8, can we do later?
+02/02/24, 09:34 - Bob: Sure, let's say at 1 then
+02/02/24, 09:35 - Alice: Perfect 👍
+03/02/24, 09:41 - Alice: Anyone up for lunch at 6?
+03/02/24, 09:41 - Charlie: Yes! Meet at campus?
+03/02/24, 09:47 - Bob: Can't make it after class, can we do later?
+03/02/24, 09:48 - Alice: Sure, let's say at 6 then
+03/02/24, 09:53 - Charlie: Perfect 👍
+03/02/24, 22:56 - Bob: Anyone up for lunch at 6?
+03/02/24, 23:02 - Charlie: Yes! Meet at the gym?
+03/02/24, 23:06 - Alice: Can't make it at 6, can we do later?
+03/02/24, 23:10 - Bob: Sure, let's say at 6 then
+03/02/24, 23:12 - Charlie: Perfect 👍
+04/02/24, 09:14 - Alice: Anyone up for the football match at 1?
+04/02/24, 09:18 - Charlie: Yes! Meet at the gym?
+04/02/24, 09:21 - Bob: Can't make it tomorrow morning, can we do later?
+04/02/24, 09:28 - Alice: Sure, let's say at 6 then
+04/02/24, 09:29 - Charlie: Perfect 👍
+04/02/24, 19:32 - Alice: Anyone up for coffee around 8?
+04/02/24, 19:37 - Charlie: Yes! Meet at the gym?
+04/02/24, 19:42 - Bob: Can't make it at 6, can we do later?
+04/02/24, 19:44 - Alice: Sure, let's say around 8 then
+04/02/24, 19:47 - Charlie: Perfect 👍
+04/02/24, 22:48 - Bob: I can't believe how much work we got for lunch
+04/02/24, 22:50 - Alice: Same 😭 I haven't even started
+04/02/24, 22:51 - Bob: Let's meet at the library after class and get it done
+05/02/24, 09:55 - Bob: I can't believe how much work we got for the football match
+05/02/24, 09:56 - Alice: Same 😭 I haven't even started
+05/02/24, 09:56 - Bob: Let's meet at the gym tomorrow morning and get it done
+05/02/24, 19:57 - Alice: Look at this 😂
+05/02/24, 19:59 - Alice: <Media omitted>
+05/02/24, 20:03 - Charlie: HAHA I'm dead
+06/02/24, 09:08 - Alice: Anyone up for study session around 8?
+06/02/24, 09:09 - Charlie: Yes! Meet at the gym?
+06/02/24, 09:15 - Bob: Can't make it at 1, can we do later?
+06/02/24, 09:20 - Alice: Sure, let's say around 8 then
+06/02/24, 09:23 - Charlie: Perfect 👍
+06/02/24, 23:28 - Alice: Look at this 😂
+06/02/24, 23:34 - Alice: <Media omitted>
+06/02/24, 23:39 - Bob: HAHA I'm dead
+07/02/24, 09:42 - Charlie: I can't believe how much work we got for the group project
+07/02/24, 09:45 - Alice: Same 😭 I haven't even started
+07/02/24, 09:50 - Charlie: Let's meet at the gym at 1 and get it done
+07/02/24, 18:52 - Bob: Anyone up for coffee after class?
+07/02/24, 18:58 - Alice: Yes! Meet at the cafe?
+07/02/24, 19:04 - Charlie: Can't make it after class, can we do later?
+07/02/24, 19:09 - Bob: Sure, let's say at 6 then
+07/02/24, 19:14 - Alice: Perfect 👍
+08/02/24, 09:16 - Alice: Anyone up for study session around 8?
+08/02/24, 09:18 - Bob: Yes! Meet at the library?
+08/02/24, 09:21 - Charlie: Can't make it at 6, can we do later?
+08/02/24, 09:28 - Alice: Sure, let's say at 1 then
+08/02/24, 09:29 - Bob: Perfect 👍
+09/02/24, 09:31 - Bob: Look at this 😂
+09/02/24, 09:34 - Bob: <Media omitted>
+09/02/24, 09:39 - Alice: HAHA I'm dead
+09/02/24, 11:44 - Alice: Look at this 😂
+09/02/24, 11:49 - Alice: <Media omitted>
+09/02/24, 11:56 - Charlie: HAHA I'm dead
+09/02/24, 23:00 - Bob: Look at this 😂
+09/02/24, 23:05 - Bob: <Media omitted>
+09/02/24, 23:08 - Alice: HAHA I'm dead
+10/02/24, 09:10 - Bob: Look at this 😂
+10/02/24, 09:13 - Bob: <Media omitted>
+10/02/24, 09:15 - Alice: HAHA I'm dead
+11/02/24, 09:18 - Charlie: Look at this 😂
+11/02/24, 09:23 - Charlie: <Media omitted>
+11/02/24, 09:23 - Bob: HAHA I'm dead
+11/02/24, 21:25 - Alice: Look at this 😂
+11/02/24, 21:27 - Alice: <Media omitted>
+11/02/24, 21:28 - Bob: HAHA I'm dead
+12/02/24, 14:33 - Bob: Anyone up for study session at 1?
+12/02/24, 14:34 - Alice: Yes! Meet at the gym?
+12/02/24, 14:37 - Charlie: Can't make it at 1, can we do later?
+12/02/24, 14:42 - Bob: Sure, let's say at 1 then
+12/02/24, 14:44 - Alice: Perfect 👍
+12/02/24, 18:48 - Bob: Anyone up for lunch tomorrow morning?
+12/02/24, 18:52 - Alice: Yes! Meet at Marco's?
+12/02/24, 18:53 - Charlie: Can't make it at 6, can we do later?
+12/02/24, 18:55 - Bob: Sure, let's say around 8 then
+12/02/24, 18:57 - Alice: Perfect 👍
+13/02/24, 11:01 - Bob: Look at this 😂
+13/02/24, 11:07 - Bob: <Media omitted>
+13/02/24, 11:09 - Alice: HAHA I'm dead
+14/02/24, 09:13 - Alice: Anyone up for lunch around 8?
+14/02/24, 09:17 - Charlie: Yes! Meet at the cafe?
+14/02/24, 09:21 - Bob: Can't make it at 1, can we do later?
+14/02/24, 09:24 - Alice: Sure, let's say at 1 then
+14/02/24, 09:28 - Charlie: Perfect 👍
+14/02/24, 15:33 - Charlie: I can't believe how much work we got for lunch
+14/02/24, 15:39 - Bob: Same 😭 I haven't even started
+14/02/24, 15:45 - Charlie: Let's meet at campus at 6 and get it done
+15/02/24, 09:47 - Alice: Anyone up for lunch after class?
+15/02/24, 09:48 - Bob: Yes! Meet at the cafe?
+15/02/24, 09:49 - Charlie: Can't make it at 1, can we do later?
+15/02/24, 09:54 - Alice: Sure, let's say after class then
+15/02/24, 09:54 - Bob: Perfect 👍
+15/02/24, 22:01 - Bob: I can't believe how much work we got for study session
+15/02/24, 22:03 - Charlie: Same 😭 I haven't even started
+15/02/24, 22:06 - Bob: Let's meet at Marco's at 6 and get it done
+16/02/24, 12:12 - Alice: I can't believe how much work we got for lunch
+16/02/24, 12:14 - Bob: Same 😭 I haven't even started
+16/02/24, 12:18 - Alice: Let's meet at campus tomorrow morning and get it done
+17/02/24, 09:22 - Bob: I can't believe how much work we got for the football match
+17/02/24, 09:22 - Charlie: Same 😭 I haven't even started
+17/02/24, 09:29 - Bob: Let's meet at campus around 8 and get it done
+18/02/24, 09:33 - Bob: Look at this 😂
+18/02/24, 09:35 - Bob: <Media omitted>
+18/02/24, 09:41 - Charlie: HAHA I'm dead
+18/02/24, 16:42 - Bob: Anyone up for study session at 1?
+18/02/24, 16:47 - Alice: Yes! Meet at the gym?
+18/02/24, 16:50 - Charlie: Can't make it tomorrow morning, can we do later?
+18/02/24, 16:53 - Bob: Sure, let's say at 1 then
+18/02/24, 16:57 - Alice: Perfect 👍
+18/02/24, 21:02 - Charlie: Look at this 😂
+18/02/24, 21:08 - Charlie: <Media omitted>
+18/02/24, 21:14 - Alice: HAHA I'm dead
+19/02/24, 09:15 - Bob: Anyone up for the group project after class?
+19/02/24, 09:17 - Charlie: Yes! Meet at the cafe?
+19/02/24, 09:19 - Alice: Can't make it at 1, can we do later?
+19/02/24, 09:20 - Bob: Sure, let's say at 6 then
+19/02/24, 09:27 - Charlie: Perfect 👍
+19/02/24, 12:34 - Charlie: Look at this 😂
+19/02/24, 12:36 - Charlie: <Media omitted>
+19/02/24, 12:40 - Bob: HAHA I'm dead
+20/02/24, 08:40 - Bob: Anyone up for the group project around 8?
+20/02/24, 08:43 - Charlie: Yes! Meet at campus?
+20/02/24, 08:46 - Alice: Can't make it at 6, can we do later?
+20/02/24, 08:50 - Bob: Sure, let's say around 8 then
+20/02/24, 08:56 - Charlie: Perfect 👍
+20/02/24, 20:02 - Alice: Look at this 😂
+20/02/24, 20:07 - Alice: <Media omitted>
+20/02/24, 20:12 - Charlie: HAHA I'm dead
+20/02/24, 22:13 - Alice: Look at this 😂
+20/02/24, 22:15 - Alice: <Media omitted>
+20/02/24, 22:17 - Bob: HAHA I'm dead
+21/02/24, 09:23 - Charlie: Look at this 😂
+21/02/24, 09:30 - Charlie: <Media omitted>
+21/02/24, 09:34 - Bob: HAHA I'm dead
+21/02/24, 19:40 - Bob: Anyone up for the group project around 8?
+21/02/24, 19:42 - Alice: Yes! Meet at the library?
+21/02/24, 19:47 - Charlie: Can't make it at 6, can we do later?
+21/02/24, 19:50 - Bob: Sure, let's say around 8 then
+21/02/24, 19:51 - Alice: Perfect 👍
+22/02/24, 11:53 - Charlie: Look at this 😂
+22/02/24, 12:00 - Charlie: <Media omitted>
+22/02/24, 12:02 - Bob: HAHA I'm dead
+23/02/24, 09:05 - Bob: Anyone up for coffee tomorrow morning?
+23/02/24, 09:07 - Charlie: Yes! Meet at the library?
+23/02/24, 09:09 - Alice: Can't make it around 8, can we do later?
+23/02/24, 09:16 - Bob: Sure, let's say after class then
+23/02/24, 09:18 - Charlie: Perfect 👍
+23/02/24, 21:21 - Charlie: I can't believe how much work we got for the group project
+23/02/24, 21:28 - Bob: Same 😭 I haven't even started
+23/02/24, 21:31 - Charlie: Let's meet at Marco's at 6 and get it done
+24/02/24, 09:36 - Alice: Anyone up for lunch at 6?
+24/02/24, 09:38 - Charlie: Yes! Meet at the gym?
+24/02/24, 09:42 - Bob: Can't make it at 1, can we do later?
+24/02/24, 09:42 - Alice: Sure, let's say at 1 then
+24/02/24, 09:48 - Charlie: Perfect 👍
+24/02/24, 23:53 - Alice: I can't believe how much work we got for lunch
+25/02/24, 00:00 - Bob: Same 😭 I haven't even started
+25/02/24, 00:04 - Alice: Let's meet at Marco's after class and get it done
+25/02/24, 11:07 - Alice: I can't believe how much work we got for the football match
+25/02/24, 11:14 - Charlie: Same 😭 I haven't even started
+25/02/24, 11:20 - Alice: Let's meet at Marco's at 1 and get it done
+25/02/24, 17:25 - Alice: Anyone up for coffee after class?
+25/02/24, 17:26 - Bob: Yes! Meet at campus?
+25/02/24, 17:28 - Charlie: Can't make it at 6, can we do later?
+25/02/24, 17:34 - Alice: Sure, let's say around 8 then
+25/02/24, 17:39 - Bob: Perfect 👍
+25/02/24, 22:41 - Bob: Anyone up for coffee at 6?
+25/02/24, 22:46 - Alice: Yes! Meet at the library?
+25/02/24, 22:48 - Charlie: Can't make it around 8, can we do later?
+25/02/24, 22:53 - Bob: Sure, let's say at 6 then
+25/02/24, 22:55 - Alice: Perfect 👍
+26/02/24, 09:58 - Bob: Look at this 😂
+26/02/24, 09:58 - Bob: <Media omitted>
+26/02/24, 10:03 - Alice: HAHA I'm dead
